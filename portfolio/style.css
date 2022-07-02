@@ -1,0 +1,140 @@
+
+.ulist {
+  
+text-decoration: none;
+list-style-type: none;
+float: right;
+display: flex;
+margin-top: 0px;
+margin-right: 20px;
+color: #344563
+   
+   
+   
+   
+}
+.logo-1 {
+   text-decoration: none;
+   padding-top: 30px;
+   color: #6070FF;
+}
+.logo {
+   font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+
+   
+   padding-left: 40px;
+  
+   margin-top: 20px;
+   /* padding-top: 30px; */
+}
+.nav-links {
+   padding-left: 14px;
+   padding-right: 14px;
+   text-decoration: none;
+}
+.topnav {
+   
+   list-style-type: none;
+   border: 1px solid red;
+   width: fit-content;
+   float: right;
+   padding-top: 10px;
+   margin-top: 3px;
+}
+.rectangle-left {
+   margin-top: 120px;
+   width:-10px;
+   margin-left: 20px;
+   margin-bottom: -35px;
+   
+  }
+  .elipse-left {
+   margin-left: 65px;
+  }
+  .elipse-right {
+      
+   float: right;
+   margin-top: -80px;
+  }
+  .rectangle-right {
+   text-align: right;
+   margin-top: -220px;
+   margin-right: 80px;
+   size: -20pz;
+}
+   .text h1 {
+   width: 920px;
+   height: 122px;
+   
+   letter-spacing: 0.37px;
+   color: #091E42;
+   font-family: 'Poppins';
+   font-weight: 1000;
+   font-size: 30px;
+   letter-spacing: 0.37px;
+   font-style: normal;
+   margin-top: 300px;
+   float: center;
+   text-align: center;
+   position: relative;
+  }
+  .text p {
+   
+  }
+.text {
+  
+ 
+  }
+  .social-media-icons p {
+     font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #7F8CFF;
+  }
+  .social-media-icons {
+     padding-left: 140px;
+  }
+  .bottom-left-img {
+     margin-left: 70px;
+     margin-top: 100px;
+  }
+  .bottom-right-img {
+     margin-left: 400px;
+     margin-top: -40px;
+  }
+  .header1 {
+   padding-bottom: 0px;
+   padding-top: 5px;
+   font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+
+/* Theme 1 / Neutrals 1 */
+
+color: #091E42;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+  
+  
+  }
+   .header2 {
+      padding-bottom: 0px;
+      padding-top: 5px;
+      
+      margin-top: -80px;
+
+   
+}
+  
